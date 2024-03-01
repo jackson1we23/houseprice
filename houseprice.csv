@@ -1,4 +1,4 @@
-Lot size,Bedrooms,Bathrooms,Year built,Neighborhood,Distance to park,Distance to school,Distance to shopping,Floors,Garage capacity,Pool,Fireplace,Basement,Deck/Patio,Heating,Cooling,Energy rating,Price
+1988,Bedrooms,Bathrooms,Year built,Neighborhood,Distance to park,Distance to school,Distance to shopping,Floors,Garage capacity,Pool,Fireplace,Basement,Deck/Patio,Heating,Cooling,Energy rating,Price
 1060,2,2,1999,Urban,2.031009878,11.05845862,5.514336198,1,0,FALSE,TRUE,FALSE,FALSE,Electric,Window,1,76284
 1470,2,1,1974,Urban,0.485623026,9.414439575,7.593473075,2,1,FALSE,FALSE,FALSE,FALSE,Oil,Window,3,77837
 1228,2,2,1982,Urban,3.816085381,3.334791967,9.112772518,2,1,FALSE,TRUE,FALSE,FALSE,Oil,Window,9,78477
